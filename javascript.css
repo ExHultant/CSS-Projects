@@ -1,0 +1,38 @@
+h1	{
+text-align:center;
+color:black;
+font-size:80px;
+	}
+h2	{
+text-align:justificy;
+color:white;
+font-size:50px;
+	}
+p	{
+font-size:20px;
+text-align:justificy;
+color:black;
+font-type:helvetica;
+	}
+UL	{
+font-size:20px;
+color:red;
+	}
+OL	{
+font-size:20px;
+color:blue;
+	}
+div	{
+background-color:yellow;
+border:10px solid black;
+padding:10px;
+width:350px;
+height:auto;
+overflow:hidden;
+	}
+img	{
+margin:auto;
+display:block;
+width:300px;
+height:200px;
+	}

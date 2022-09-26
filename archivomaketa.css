@@ -1,0 +1,128 @@
+﻿.principal	{
+width:80%;
+background-color:green;
+text-align:center;
+color:white;
+margin:auto;
+height:auto;
+		}
+.header		{
+width:100%;
+height:300px;
+background-color:blue;
+font-size:80px;
+bottom:150px;
+		}
+.aside		{
+width:25%;
+float:left;
+background-color:purple;
+height:500px;
+text-align:center;
+font-size:35px;
+		}
+.aside2		{
+width:25%;
+float:left;
+background-color:purple;
+height:500px;
+text-align:center;
+font-size:30px;
+		}
+.main		{
+width:50%;
+float:left;
+background-color:brown;
+height:500px;
+text-align:center;
+font-size:45px;
+		}
+.footer		{
+width:100%;
+clear:both;
+background-color:black;
+height:300px;
+text-align:center;
+font-size:50px;
+		}
+.nav		{
+background-color:grenn;
+height:40px;
+width:100%;
+
+		}
+.ul		{
+list-style:none;
+widht:50%;
+height:40px;
+margin:auto;
+		}
+.ulli		{
+float:left;
+margin:1%;
+text-align:center;
+line-height:40px;
+margin-left:15%;
+font-size:20px;
+		}
+.span		{
+font-size:30px;
+font-family:Broadway;
+position:absolute;
+top:9%;
+left:13%;
+margin:auto;
+text-align:center;
+		}
+.texto	{
+font-size:20px;
+font-family:Algerian;
+color:green;
+		}
+.form		{
+font-size:20px;
+color:purple;
+left:250px;
+height:auto;
+position:relative;
+		}
+.linea		{
+width:100px;
+color:red;
+bottom:50px;
+		}
+.letra		{
+font-size:30px;
+position:absolute;
+top:9%;
+left:20%;
+margin:auto;
+text-align:center;
+		}
+.letra1		{
+font-size:30px;
+position:absolute;
+top:9%;
+left:60%;
+margin:auto;
+text-align:center;
+		}
+.ul2		{
+list-style:none;
+font-size:30px;
+color:green;
+font-family:algerian;
+position:absolute;
+		}
+.foto1		{
+position:absolute;
+left:80%;
+width:30px;
+top:35%;
+		}
+.foto2		{
+position:absolute;
+left:85%;
+width:30px;
+top:35%;
+		}

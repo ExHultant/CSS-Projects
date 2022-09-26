@@ -1,0 +1,21 @@
+.padre		{
+display:flex;
+flex-direction:column;
+background-color:black;
+height:auto;
+		}
+.hijo1		{
+background-color:grenn;
+width:300px;
+height:300px;
+		}
+.hijo2		{
+background-color:RGB(100,255,50);
+width:300px;
+height:300px;
+		}
+.hijo3		{
+background-color:RGB(255,40,10);
+width:300px;
+height:300px;
+		}

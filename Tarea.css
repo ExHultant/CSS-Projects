@@ -1,0 +1,43 @@
+.principal	{
+background-color:red;
+border:10px solid blue;
+width:80%;
+height:auto;
+overflow:hidden;
+		}
+.hijo1		{
+background-color:blue;
+border:10px solid green;
+width:350px;
+height:350px;
+overflow:scroll;
+float:left;
+padding:20px;
+		}
+.hijo2		{
+background-color:yellow;
+border:10px solid pink;
+width:350px;
+height:350px;
+overflow:scroll;
+float:right;
+padding:20px;
+		}
+.minidiv	{
+visibility:hidden;
+display:none;
+		}
+.minidiv2	{
+visibility:hidden;
+display:none;
+		}
+.boton1		{
+background-color:purple;
+color:white;
+font-family:calibri;
+		}
+.boton2		{
+background-color:red;
+color:white;
+font.family:calibri;
+		}

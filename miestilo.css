@@ -1,0 +1,15 @@
+.uno	{
+background-color:blue;
+text-align:center;
+border:2px solid black;
+	}
+.dos	{
+background-color:gray;
+text-align:center;
+border:2px solid black;
+	}
+.tabla	{
+border:2px solid black;
+border-collapse:collapse;
+margin:auto;
+	}
